@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "email": "marklyan@gmail.com",
+      "password": "$2a$10$R30amjcFeDXJMfKnegg.b.8lLX9h5q3aDnM.HblRfmOHBBPsI4NPO",
+      "name": "Кылымбек",
+      "surname": "Токтобеков",
+      "job": "Разработчик",
+      "role": "Разработчик",
+      "level": "Делопроизводитель",
+      "login": "kylymbek",
+      "gender": "Мужской",
+      "systems": "КИС",
+      "id": 5,
+      "status": "true"
+    },
+    {
+      "email": "mar34t34t34t34klyan@gmail.com",
+      "password": "$2a$10$yk4vf9IJKKZSnd.8dBxOp.5Sqa49Q/YlfGY8187w/qmVmyrnatnVq",
+      "name": "23t3t",
+      "surname": "t4",
+      "job": "43t",
+      "role": "Разработчик",
+      "level": "Делопроизводитель",
+      "login": "34t34",
+      "gender": "Мужской",
+      "systems": "КИС",
+      "id": 6,
+      "status": "true"
+    },
+    {
+      "email": "joererhern@mail.com",
+      "password": "$2a$10$Cd6m2nd6.t5sPBBqqo6R2eRkPhAVZ3bzIatZ7x98V9KHLmlpmuP5y",
+      "name": "gerg",
+      "surname": "erg",
+      "job": "ergere",
+      "role": "Бухгалтер",
+      "level": "Начальник",
+      "login": "erg",
+      "gender": "Мужской",
+      "systems": "КИС",
+      "id": 10,
+      "status": "true"
+    },
+    {
+      "email": "kylymbekkemin@gmail.com",
+      "password": "$2a$10$vKkH7V/vw/a4Yqp927dYLOiP4XHcBAcADDiCQiGw9sm74ma2bZf.C",
+      "name": "Айдин",
+      "surname": "Аскербеков",
+      "job": "3rf3f",
+      "role": "Бухгалтер",
+      "level": "Делопроизводитель",
+      "login": "kylymbekkemin@gmail.com",
+      "gender": "Мужской",
+      "systems": "КИС",
+      "id": 11,
+      "status": "true"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Разработчик"
+    },
+    {
+      "id": 2,
+      "name": "Бухгалтер"
+    },
+    {
+      "id": 3,
+      "name": "Специалист делопроизводитель"
+    },
+    {
+      "id": 4,
+      "name": "Администратор систем"
+    },
+    {
+      "id": 5,
+      "name": "Аналитик"
+    },
+    {
+      "id": 6,
+      "name": "Руководитель проектов"
+    },
+    {
+      "id": 7,
+      "name": "Специалист материально-техническиого обеспечения"
+    },
+    {
+      "id": 8,
+      "name": "Администратор систем"
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "name": "Делопроизводитель"
+    },
+    {
+      "id": 2,
+      "name": "Зам директор"
+    },
+    {
+      "id": 3,
+      "name": "Начальник"
+    },
+    {
+      "id": 4,
+      "name": "Исполнитель"
+    }
+  ],
+  "systems": [
+    {
+      "id": 1,
+      "name": "КИС"
+    }
+  ]
+}
