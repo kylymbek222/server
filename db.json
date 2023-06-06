@@ -55,6 +55,11 @@
       "systems": "КИС",
       "id": 11,
       "status": "true"
+    },
+    {
+      "email": "kylymbekwefwe1@mail.com",
+      "password": "$2a$10$1biBTpLbAqRIYoX2l/LyvOWLrQOfYPMpbZVImf5HAvMBFcI1roC7q",
+      "id": 12
     }
   ],
   "roles": [
