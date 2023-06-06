@@ -14,13 +14,9 @@ app.use(middlewares);
 app.use(router);
 app.use(
   cors({
-    origin: true,
-    credentials: true,
-    preflightContinue: false,
-    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    origin: ["http://localhost:3030"]
   })
 );
-app.options("*", cors());
 app.listen(3001, () => {
   console.log("JSON Server is running");
 });
